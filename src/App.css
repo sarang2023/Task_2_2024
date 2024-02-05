@@ -1,38 +1,195 @@
-.App {
-  text-align: center;
+.color
+{
+    color:purple;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+span
+{
+    color: purple;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.mx-1 input::placeholder {
+    color:white;
+  font-size: 14px;
+  font-weight: 500;
+  
+    
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.mb-3 input::placeholder {
+    color:white;
+  font-size: 14px;
+  font-weight: 500;
+  
+    
   }
-  to {
-    transform: rotate(360deg);
-  }
+.height
+{
+  height: 300px;
 }
+.bg
+{
+  background:slategray;
+  
+}
+.tilted-card {
+  transform: rotate(6deg); 
+}
+.colors{
+  color: fuchsia;
+}
+
+.back
+{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_2zaZi5pFEQcV9k8xCK-oYe5rwSsvshDygyoUwkGX7EfYTjEBwhWVPdaW5G8pzPBhfU&usqp=CAU');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.back8
+{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_2zaZi5pFEQcV9k8xCK-oYe5rwSsvshDygyoUwkGX7EfYTjEBwhWVPdaW5G8pzPBhfU&usqp=CAU');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.back9
+{
+  background: url('https://media.istockphoto.com/id/476021886/photo/beautiful-young-ballet-dancer-jumping-on-a-lilac-background.jpg?s=612x612&w=0&k=20&c=Y4top2o1DseOu9y6X8oTxRfp_1rSFLLZYKf_pEuQLZ8=');
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+.back10
+{
+  background: url('https://img.freepik.com/premium-photo/paintbrush-with-tubes-oil-paints-colour-pencils-art-craft-tools-ink-wooden-table-painting-contemporary-artist-s-items-adult-s-creativity-watercolor-drawing-atmospheric-modern-photo_427877-89.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+.back11
+{
+  background: url('https://c8.alamy.com/comp/2EXDPJH/cook-works-in-kitchen-near-table-with-vegetables-and-tools-man-in-cook-hat-and-uniform-kitchenware-and-cooking-concept-chef-with-serious-face-adjusts-burgundy-apron-on-dark-green-background-2EXDPJH.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+.back12
+{
+  background: url('https://i.pinimg.com/564x/9a/9c/71/9a9c712abbce93e707a3e9bd14a1a2df.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.back1
+{
+  background: url('https://i.pinimg.com/736x/81/95/ff/8195ff91e44ffc4d814c1ee02f834d21.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.back2
+{
+  background: url('https://music.columbia.edu/sites/default/files/styles/full/public/images/4c4e9d8b-e6fc-4faa-a988-949e46a9c974.png?itok=-CEMbI3h');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.back3
+{
+  background: url('https://www.aljazeera.com/wp-content/uploads/2023/01/2023-01-01T074358Z_652705649_RC2HHY9MHGUY_RTRMADP_3_NEW-YEAR-USA-NEW-YORK.jpg?resize=1170%2C780&quality=80');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.back4
+{
+  background: url('https://in.bmscdn.com/events/moviecard/ET00355617.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.back5
+{
+  background: url('https://in.bmscdn.com/events/moviecard/ET00363551.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.back6
+{
+  background: url('https://assets-in.bmscdn.com/discovery-catalog/events/et00377296-pmxevqfbvb-portrait.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.back7
+{
+  background: url('https://indiancomedyclub.com.au/wp-content/uploads/2023/12/kisi-ko-mat-batana.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.back13
+{
+  background: url('https://roothogmusic.com/wp-content/uploads/2022/01/71-1.jpg');
+  background-size: cover;
+}
+
+
+.c
+{
+  color: purple;
+  font-size: 20px;
+}
+.card-body1
+{
+  height: 400px;
+  
+}
+.card-body2
+{
+  height: 296px;
+}
+.card-body3
+{
+  height: 250px;
+}
+.purple
+{
+  color: purple;
+}
+.button-c
+{
+  background-color: fuchsia;
+}
+
+.bg-d
+{
+  background-color:rgba(9, 9, 9, 0.841);
+}
+.bg-d1
+{
+  background-color:rgb(9, 56, 95);
+  
+  
+}
+.card-h
+{
+  height: 200px;
+}
+
+
+.fs
+{
+  font-size: 50px;
+}
+.position
+{
+  width:65%;
+  
+}
+
+
+  @media only screen and (max-width: 600px) {
+    .col .h4 {
+      font-size: 18px;
+    }
+    
+   
+  }
+  @media only screen and (max-width: 768px) {
+    .pos
+    {
+      display: none;
+    }
+  }
+  
+  
+
+  
